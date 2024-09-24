@@ -22,6 +22,7 @@ Azure AD / Entra ID pentesting links.
 - https://github.com/f-bader/TokenTacticsV2
 - https://github.com/netwrix/pingcastle
 - https://github.com/nccgroup/ScoutSuite
+- https://github.com/Azure/Stormspotter
 
 
 
@@ -30,6 +31,7 @@ Azure AD / Entra ID pentesting links.
 - https://github.com/PacktPublishing/Penetration-Testing-Azure-for-Ethical-Hackers / https://static.packt-cdn.com/downloads/9781839212932_ColorImages.pdf
 - https://danielchronlund.com/2022/01/07/the-attackers-guide-to-azure-ad-conditional-access/
 - https://github.com/Kyuu-Ji/Awesome-Azure-Pentest?tab=readme-ov-file#articles
+- https://emptydc.com/2020/12/10/privilege-escalation-in-azure-ad/
 
 
 ## Powershell
@@ -42,3 +44,4 @@ Azure AD / Entra ID pentesting links.
 - AD/O365 attack and defense: https://github.com/infosecn1nja/AD-Attack-Defense
 - https://github.com/Kyuu-Ji/Awesome-Azure-Pentest
 - https://github.com/merill/awesome-entra
+- https://github.com/kmcquade/awesome-azure-security
